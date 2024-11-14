@@ -13,3 +13,20 @@ Step 4: Commit code
 -git add fileName (add tung file 1)
 -git add .
 
+
+
+git checkout .
+
+Các câu lệnh git cơ bản
+git branch -d <ten_nhanh>  (Xóa 1 nhánh)
+git checkout -b <ten_nhanh> (Tạo nhánh và chuyển nhánh)
+git branch xem danh sach nhanh
+git commit -m "message"
+git push origin ten_nhanh
+git add .
+git remote add ten_reomte link_repo
+
+dung o develop pull code moi nhanh ve
+
+git pull origin ten_nhanh -> keos code moi nhat cua nhanh do ve local
+
