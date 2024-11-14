@@ -1,0 +1,15 @@
+Step1: git init
+-> Khởi tạo repo dưới local
+
+Branch name là các nhánh
+default master
+
+Step 2: git status
+
+Step 3: git checkout -b develop
+Taoj nhanh moi cos ten la develop
+
+Step 4: Commit code
+-git add fileName (add tung file 1)
+-git add .
+
